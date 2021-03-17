@@ -1,0 +1,2 @@
+# ghost
+just fun
